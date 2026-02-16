@@ -8,7 +8,7 @@ PR = "r1"
 PV = "0.1"
 
 SRC_URI = " \
-    git://github.com/arduino/portentax8-x8h7.git;branch=linux-imx-lf-6.6.y;protocol=https \
+    git://github.com/pika-spark/portentax8-x8h7.git;branch=main;protocol=https \
 "
 SRCREV = "${AUTOREV}"
 
